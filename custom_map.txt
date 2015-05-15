@@ -1,0 +1,15 @@
+E E E E E E E E E E E E E E E E E E E E E E E E E E E E
+E A F A A A A A A W W W W W A A A A A A A A A F F A A E
+E 2 F A A A A A A W W W W W A A A A A A A A A F F A A E
+E F E E F E E E E E E E E E E E E A A A A A E E E E A E
+E F F A A A A A A A A A A A 0 A E A A A A A E A A A A E
+E A A A A A A A A A A A A A A A E A A A A A E A A A A E
+E A A A A A E E E E E A E E E E E A A A E E A A A A A E
+E A A A 4 A E 1 F F A A A A A A A A A E E A A A A A A E
+E E E E E A E E E E E E E E E E E E E E A A E E E E E E
+E E E E A A F A A A F A A F A A F A A A A A E A A F 5 E
+E E E E A F F A F A F A F A F A F A A A 3 A E A E E E E
+E E E E A F A A F A A A A A A A F A F E E A E W W W W E
+E E E E A F A F F F F F F F A F F A F E E A W W W W W E
+E E E E A A A A A A A A A F A A A A F E E A W W W W W E
+E E E E E E E E E E E E E E E E E E E E E E E E E E E E
